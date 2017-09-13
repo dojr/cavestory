@@ -7,11 +7,8 @@
 //============================================================================
 
 #include "headers/graphics.h"
-
+#include "headers/game.h"
 int main() {
-	Graphics graphics;
-	while (true){
-
-	}
+	Game game;
 	return 0;
 }
