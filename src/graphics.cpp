@@ -1,5 +1,5 @@
 #include <SDL2/SDL.h>
-#include "headers/graphics.h"
+#include "graphics.h"
 
 
 /* Graphics class

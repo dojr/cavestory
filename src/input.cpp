@@ -1,4 +1,4 @@
-#include "headers/input.h"
+#include "input.h"
 
 /*
  * keeps track of keyboard state
